@@ -4,8 +4,12 @@ Markdown Guide
 
 [Dillinger]: www.dillinger.io
 
-[![N|Solid](https://image.ibb.co/evFeNb/southpark_ian.png)](https://imgbb.com/)
-_by Toui_
+[![](https://image.ibb.co/evFeNb/southpark_ian.png)](https://imgbb.com/)
+
+_by Ian Cover_
+
+____
+What's above is this:
 
 ```
 Markdown Guide
@@ -14,8 +18,8 @@ Markdown Guide
 
 [Dillinger]: www.dillinger.io
 
-[![N|Solid](https://image.ibb.co/evFeNb/southpark_ian.png)](https://imgbb.com/)
-_by Toui_
+[![](https://image.ibb.co/evFeNb/southpark_ian.png)](https://imgbb.com/)
+_by Ian Cover_
 ```
 ___
 
