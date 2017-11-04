@@ -68,13 +68,25 @@ ___
 ```
 
 ### Text Format and Decoration
-To `highlight` text use: ``
-To **bold** text use: ** **
-To _itallicize_ text use: _ _
-To ~~strikethrough~~ use: ~~ ~~
+`highlight`
+```
+`highlight`
+```
+**bold**
+```
+**bold**
+```
+
+For _italic_ text use: _ _
+
+For ~~strikethrough~~ use: ~~ ~~
+
 To ___underline___
+
 To ~subscript~ text use: ~ ~
+
 To **_boldtallics_** or ___boldtallics___ or ***boldtallics***
+
 To 
 ...or combine all (has to be one word) &nbsp; _**~~~bold-itallic-strikenthrough-subscript~~~**_
 
@@ -82,7 +94,7 @@ To
 ### Text Format and Decoration
 To `highlight` text use: ``
 To **bold** text use: ** **
-To _itallicize_ text use: _ _
+To _italic_ text use: _ _
 To ~~strikethrough~~ use: ~~ ~~
 To ___underline___
 To ~subscript~ text use: ~ ~
